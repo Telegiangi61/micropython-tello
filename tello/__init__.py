@@ -50,7 +50,7 @@ class Tello:
         self.command('land')
 
     def move(self, direction, distance):
-        distance = int(round(float(distance) * 100))
+        distance = int(round(float(distance) * 1)) # fixed metric setting on Tello
         self.command('%s %s' % (direction, distance))
 
     def move_backward(self, distance):
