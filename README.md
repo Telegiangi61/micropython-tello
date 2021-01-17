@@ -1,7 +1,7 @@
-# Controlling Tello using MicroPython
+# Controlling Tello using M5 Stack UiFlow and MicroPython
 
-This is example how to use ESP32 to controll tello drone :D
+This is a project wip to control DJI tello drone.
 
-[![ESP32 and Tello](https://img.youtube.com/vi/yKeMzTJVZ-0/0.jpg)](https://www.youtube.com/watch?v=yKeMzTJVZ-0)
-
-TODO: reading asynchonously responses from drone and reading some parameters like battery level or speed...
+TODO: 
+1) reading asynchonously responses from drone with UDP webserver
+2) reading parameters like battery level or speed...
