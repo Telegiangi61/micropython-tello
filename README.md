@@ -9,8 +9,9 @@ TODO:
 IMPORTANT UPDATE!!!
 Tello code block is embedded on UIFlow since 1.7.3 version.
 So now is very easy to realize mission control for DJI Tello programming with simple block.
+Read please DOC folder (ENG/IT) for examples of using it
 
-Master Version and Italian docs written by Gian luigi Perrella. Englis translation of the docs written by Adam Bryant.
+Master Version and Italian docs written by Gian luigi Perrella. English translation of the docs written by Adam Bryant.
 
 ENJOY IT and let me know your project!
 
