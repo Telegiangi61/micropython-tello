@@ -7,9 +7,10 @@ TODO:
 2) reading parameters like battery level or speed...
 
 IMPORTANT UPDATE!!!
-Tello code block is embedded on UIFlow since 1.7.3 version.
+Thanks to the M5Stack crew, DJI Tello code block is embedded on UIFlow since 1.7.3 version.
 So now is very easy to realize mission control for DJI Tello programming with simple block.
-Read please DOC folder (ENG/IT) for examples of using it
+
+Find it on Third Party block section, read please DOC folder (ENG/IT) for examples of using it 
 
 Master Version and Italian docs written by Gian luigi Perrella. English translation of the docs written by Adam Bryant.
 
