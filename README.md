@@ -1,4 +1,4 @@
-# Controlling Tello using M5 Stack UiFlow and MicroPython
+# Controlling Tello using M5 Stack UiFlow Blocks and MicroPython
 
 This is a project wip to control DJI tello drone with M5Stack core.
 
